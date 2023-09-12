@@ -1,0 +1,27 @@
+#brand
+{
+    background-image: linear-gradient(to left, rgb(8, 0, 8), rgb(8, 6, 10), rgb(11, 12, 11), rgb(9, 9, 10), rgb(6, 6, 6), rgb(0, 0, 0), rgb(4, 4, 4));
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-size: 30px;
+    font-weight: bold;
+}
+#nav[_ngcontent-ng-c1707613642] {
+    margin-left: 69%;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    align-content: space-between;
+    justify-content: flex-end;
+    align-items: baseline;
+}
+
+.pi
+{
+    margin-left: 8px;
+    vertical-align: middle;
+}
